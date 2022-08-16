@@ -4,7 +4,7 @@ Purpose of this program is read lyrics of song without spotify app.
 
 Lyrics will allways be on top and will be frameless text.
 
-Only tried on W11 and W10 with python 3.7.0
+Only tested on W11 and W10 with python 3.7.0
 
 It is a simple app you can modify it as you wish.
 
